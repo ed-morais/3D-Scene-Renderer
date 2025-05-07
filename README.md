@@ -19,6 +19,9 @@ This project demonstrates fundamental 3D graphics concepts using Three.js. It cr
 - HTML5
 - JavaScript
 - Three.js
+## Live View
+
+[3D Scene Renderer](https://ed-morais.github.io/3d-scene-renderer/)
 
 ## Setup
 
